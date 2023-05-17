@@ -1,0 +1,23 @@
+Introduction:it is a softwawre which is used to streamline and automate the operation of recruitment process.it is used to centralized and optimize various functionality of recruitment like job vacancy,applicant management , interview process, decision and hiring.this srs contain function required in this software.
+functional requirement :
+1) organization registration and login:in this functionality , organization from different places can register themselves using company name, address and email and they can update them also after registration and provide to see the applicant profile
+2)job vacancy: system can add job using job title , company name, qualification required, postion  and provide view of requirement to applicant
+3)applicant management: applicant can register themselves through email and they can upload they information and qualification and cv.they can apply for jobs and check their status
+4)interview schedulling: provide schedulling of intervew to those selected by organization and provide date, time venue option .
+5)decision and hiring:it will show the status of hiring process to applicant and give permission to write the decison and maintain databse of status
+business entity and operation:
+organization
+jobseeker
+interview
+hiring
+job vacancy
+registration
+update
+apply
+provide suugestios 
+review
+upload
+add and delete
+login
+signup
+customer support
